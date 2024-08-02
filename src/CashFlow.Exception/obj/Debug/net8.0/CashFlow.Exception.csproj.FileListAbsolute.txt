@@ -1,0 +1,11 @@
+F:\source\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.deps.json
+F:\source\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.dll
+F:\source\repos\CashFlow\src\CashFlow.Exception\bin\Debug\net8.0\CashFlow.Exception.pdb
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfoInputs.cache
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.AssemblyInfo.cs
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.csproj.CoreCompileInputs.cache
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.dll
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\refint\CashFlow.Exception.dll
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\CashFlow.Exception.pdb
+F:\source\repos\CashFlow\src\CashFlow.Exception\obj\Debug\net8.0\ref\CashFlow.Exception.dll

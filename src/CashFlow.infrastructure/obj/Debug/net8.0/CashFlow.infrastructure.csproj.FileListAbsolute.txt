@@ -1,0 +1,15 @@
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\bin\Debug\net8.0\CashFlow.infrastructure.deps.json
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\bin\Debug\net8.0\CashFlow.infrastructure.dll
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\bin\Debug\net8.0\CashFlow.infrastructure.pdb
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\bin\Debug\net8.0\CashFlow.Domain.dll
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\bin\Debug\net8.0\CashFlow.Domain.pdb
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.csproj.AssemblyReference.cache
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.AssemblyInfoInputs.cache
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.AssemblyInfo.cs
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.csproj.CoreCompileInputs.cache
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.88DCF62F.Up2Date
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.dll
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\refint\CashFlow.infrastructure.dll
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\CashFlow.infrastructure.pdb
+F:\source\repos\CashFlow\src\CashFlow.infrastructure\obj\Debug\net8.0\ref\CashFlow.infrastructure.dll
