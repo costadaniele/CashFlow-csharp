@@ -1,0 +1,7 @@
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.csproj.AssemblyReference.cache
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.AssemblyInfoInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.AssemblyInfo.cs
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.csproj.CoreCompileInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.MvcApplicationPartsAssemblyInfo.cache
+D:\source\repos\CashFlow\src\CashFlow.Api\obj\Release\net8.0\CashFlow.Api.sourcelink.json

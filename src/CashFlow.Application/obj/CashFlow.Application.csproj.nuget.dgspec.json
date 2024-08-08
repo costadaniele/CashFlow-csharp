@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {}
+    "D:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {}
   },
   "projects": {
-    "F:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
+    "D:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectUniqueName": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "projectName": "CashFlow.Application",
-        "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
+        "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\CashFlow.Application.csproj",
         "packagesPath": "C:\\Users\\55139\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\obj\\",
+        "outputPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -33,14 +33,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
-                "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
+              "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+                "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj"
               },
-              "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
-                "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
+              "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+                "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj"
               },
-              "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
-                "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
+              "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+                "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj"
               }
             }
           }
@@ -59,6 +59,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "FluentValidation": {
+              "target": "Package",
+              "version": "[11.9.2, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -79,14 +85,14 @@
         }
       }
     },
-    "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
+    "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectUniqueName": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "projectName": "CashFlow.Communication",
-        "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
+        "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\CashFlow.Communication.csproj",
         "packagesPath": "C:\\Users\\55139\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\obj\\",
+        "outputPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Communication\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -144,14 +150,14 @@
         }
       }
     },
-    "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
+    "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectUniqueName": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "projectName": "CashFlow.Domain",
-        "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
+        "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\CashFlow.Domain.csproj",
         "packagesPath": "C:\\Users\\55139\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\obj\\",
+        "outputPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -209,14 +215,14 @@
         }
       }
     },
-    "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
+    "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectUniqueName": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "projectName": "CashFlow.Exception",
-        "projectPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
+        "projectPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\CashFlow.Exception.csproj",
         "packagesPath": "C:\\Users\\55139\\.nuget\\packages\\",
-        "outputPath": "F:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\obj\\",
+        "outputPath": "D:\\source\\repos\\CashFlow\\src\\CashFlow.Exception\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

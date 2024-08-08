@@ -9,3 +9,16 @@ F:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Co
 F:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
 F:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
 F:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll
+F:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
+D:\source\repos\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.deps.json
+D:\source\repos\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.dll
+D:\source\repos\CashFlow\src\CashFlow.Communication\bin\Debug\net8.0\CashFlow.Communication.pdb
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfoInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.AssemblyInfo.cs
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.csproj.CoreCompileInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.sourcelink.json
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.dll
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\refint\CashFlow.Communication.dll
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\CashFlow.Communication.pdb
+D:\source\repos\CashFlow\src\CashFlow.Communication\obj\Debug\net8.0\ref\CashFlow.Communication.dll

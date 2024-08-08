@@ -9,3 +9,16 @@ F:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dl
 F:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
 F:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
 F:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
+F:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+D:\source\repos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.deps.json
+D:\source\repos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.dll
+D:\source\repos\CashFlow\src\CashFlow.Domain\bin\Debug\net8.0\CashFlow.Domain.pdb
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfoInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.AssemblyInfo.cs
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.csproj.CoreCompileInputs.cache
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.sourcelink.json
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.dll
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\refint\CashFlow.Domain.dll
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\CashFlow.Domain.pdb
+D:\source\repos\CashFlow\src\CashFlow.Domain\obj\Debug\net8.0\ref\CashFlow.Domain.dll
